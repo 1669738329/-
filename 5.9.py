@@ -14,5 +14,4 @@ def f(n):
 
 for x in range(1, 1000):
     if f(x):
-        print("sum({})".format(f(x)[1]), end=' = ')
-        print(x)
+        print("sum({0}) = {1}".format(f(x)[1], x))
