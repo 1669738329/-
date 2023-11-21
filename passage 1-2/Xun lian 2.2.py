@@ -1,0 +1,10 @@
+# 郭鑫 20222146060 数据科学与大数据技术班
+print("  拒")
+print("  人")
+print("  千")
+print("忙  偷闲")
+a = input("请输入缺字: ")
+print("  拒")
+print("  人")
+print("  千")
+print("忙{0}偷闲".format(a))
