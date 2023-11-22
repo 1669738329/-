@@ -1,4 +1,4 @@
-# 冯旭 20222146063 数据科学与大数据技术
+# 郭鑫 20222146060 数据科学与大数据技术
 class Person:
     def __init__(self, name, sex, age):
         self.__name = name
