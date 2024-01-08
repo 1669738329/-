@@ -30,7 +30,7 @@ class Square:
         print("正方形周长:{}".format(4 * self.__bian))
 
 
-class Circle(object):
+class Circle:
     def __init__(self, radius):
         self.__radius = radius
 
